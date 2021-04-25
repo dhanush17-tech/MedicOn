@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586089926572",
+    "project_id": "virtual-doctor-b0363",
+    "storage_bucket": "virtual-doctor-b0363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586089926572:android:fe9a48eef873195c15b409",
+        "android_client_info": {
+          "package_name": "com.example.doctor_consultation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586089926572-rsi9bom5tmssg4evq1gvq004hsaprl4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_consultation_app",
+            "certificate_hash": "27bc3e893d8d0db06c918fffb899703da5ef5592"
+          }
+        },
+        {
+          "client_id": "586089926572-9h9ebsvjudnvcirlsbnkvh6a4nmatuoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkkfOB3Yij-DMQzPMiu97NNHweSFZ1NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586089926572-9h9ebsvjudnvcirlsbnkvh6a4nmatuoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+name: doctor_consultation_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  google_fonts: ^2.0.0
+  simple_animations: ^1.3.3
+  firebase_auth: ^0.14.0+5
+  google_sign_in: "^4.5.1"
+  cloud_firestore: ^0.12.9+5
+  font_awesome_flutter: ^8.8.1
+  curved_navigation_bar: ^0.3.7
+  pretty_qr_code:
+  carousel_slider: ^3.0.0
+  gradient_text: ^1.0.2
+  star_rating: ^0.9.0
+  firebase_storage: ^3.1.6
+  image_picker: ^0.7.4
+  fade: ^1.0.0
+  jitsi_meet: ^2.1.0
+  firebase_core: ^0.4.0+9
+  image_cropper: ^1.4.0
+  camera: ^0.5.8+17
+  lottie: ^1.0.1
+  photo_view:
+  intl: ^0.17.0
+  timeago: ^3.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+    - assets/
+
+
+  fonts:
+    - family: good
+      fonts:
+        - asset: assets/good.ttf
